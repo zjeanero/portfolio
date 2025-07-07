@@ -4,6 +4,7 @@ export const Container = styled.div`
   display: flex;
   gap: 12px;
   align-items: center;
+  margin: 12px;
 `
 
 export const IconLink = styled.a`
