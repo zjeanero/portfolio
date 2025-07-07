@@ -1,5 +1,6 @@
 import Avatar from '../../components/Avatar'
 import Paragrafo from '../../components/Paragrafo'
+import Redes from '../../components/Redes'
 import Titulo from '../../components/Titulo'
 
 import { Descricao, BotaoTema, SideBarContainer } from './styles'
@@ -15,6 +16,7 @@ const Sidebar = () => (
       <Descricao tipo="principal" fontSize={12}>
         Front-End Developer
       </Descricao>
+      <Redes />
       <BotaoTema>Trocar tema</BotaoTema>
     </SideBarContainer>
   </aside>
