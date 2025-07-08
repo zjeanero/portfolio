@@ -5,6 +5,10 @@ export const Container = styled.div`
   gap: 12px;
   align-items: center;
   margin: 12px;
+
+  @media (max-width: 768px) {
+    justify-content: center;
+  }
 `
 
 export const IconLink = styled.a`
