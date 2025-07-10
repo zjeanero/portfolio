@@ -6,9 +6,10 @@ const Sobre = () => (
   <section>
     <Titulo fontSize={16}>Sobre mim</Titulo>
     <Paragrafo tipo="principal">
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore qui ex
-      repudiandae veniam odio quas iure! Debitis ipsum nobis, illo, mollitia
-      commodi, soluta dolor sed vel recusandae voluptate aspernatur dolorum.
+      Me chamo Jean Secco Castro, tenho 23 anos e sou um entusiasta da
+      tecnologia e estudante de programação, focado em desenvolvimento web.
+      Atualmente, faço o curso de Desenvolvedor Full Stack Java pela EBAC e sigo
+      aprimorando minhas habilidades em HTML, CSS e JavaScript.
     </Paragrafo>
     <GithubSecao>
       <img src="https://github-readme-stats.vercel.app/api?username=zjeanero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
