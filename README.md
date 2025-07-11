@@ -1,46 +1,57 @@
-# Getting Started with Create React App
+# Portfolio Pessoal - Jean Secco
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="Licença MIT">
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://portfolio-jean-secco.vercel.app/" target="_blank"><strong>Acesse a demonstração ao vivo 🚀</strong></a>
+</p>
 
-In the project directory, you can run:
+## 📄 Sobre o Projeto
 
-### `npm start`
+Este é o repositório do meu portfolio pessoal, uma Single-Page Application (SPA) desenvolvida para aplicar e demonstrar minhas habilidades em desenvolvimento front-end. O projeto foi criado como parte dos meus estudos na **EBAC (Escola Britânica de Artes Criativas e Tecnologia)**, no curso de Desenvolvedor Full Stack.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Aqui, apresento um pouco sobre mim, minhas habilidades e os projetos que desenvolvi ao longo da minha jornada de aprendizado.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ✨ Funcionalidades
 
-### `npm test`
+- **Listagem Dinâmica de Projetos:** Os projetos são renderizados a partir de um array de objetos, tornando a adição de novos trabalhos simples e escalável.
+- **Componentização:** O projeto é estruturado em componentes React reutilizáveis, seguindo as melhores práticas de desenvolvimento.
+- **Estilização com Styled-Components:** Estilos de escopo de componente para uma interface moderna e de fácil manutenção.
+- **Consumo de Dados da API do GitHub:** Exibição de estatísticas e informações diretamente do meu perfil no GitHub.
+- **Design Responsivo:** A interface se adapta a diferentes tamanhos de tela, de desktops a dispositivos móveis.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Tecnologias Utilizadas
 
-### `npm run build`
+Este projeto foi construído utilizando as seguintes tecnologias:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**
+- **TypeScript**
+- **Styled-Components**
+- **Git & GitHub** para versionamento e hospedagem de código.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🧠 O que aprendi
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Construir este portfolio foi uma incrível jornada de aprendizado. Alguns dos principais conceitos que apliquei e solidifiquei foram:
 
-### `npm run eject`
+- **Componentização e Reutilização de Lógica** no React.
+- **Tipagem de Componentes com TypeScript**, criando interfaces (`props`) para garantir a segurança e a previsibilidade do código.
+- **Renderização de Listas Dinâmicas** com o método `.map()` e a importância fundamental das `keys` para a otimização da performance.
+- **Gerenciamento de Estado** (useState) e **Ciclo de Vida de Componentes** (useEffect).
+- **Estilização avançada** e criação de temas (claro/escuro) com Styled-Components.
+- **Estruturação e organização de pastas** em um projeto React de forma escalável.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📫 Contato
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Jean Secco**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- **LinkedIn:** https://www.linkedin.com/in/zjeanero/
+- **Email:** jeansscastro@gmail.com
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+*Feito com ❤️ por Jean Secco.*
