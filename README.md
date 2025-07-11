@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-jean-secco.vercel.app/"  target="_blank" ><strong>Acesse a demonstração ao vivo 🚀</strong></a>
+  <a href="https://portfolio-jean-secco.vercel.app/"  target="_blank" rel="noreferrer"><strong>Acesse a demonstração ao vivo 🚀</strong></a>
 </p>
 
 ## 📄 Sobre o Projeto
